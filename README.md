@@ -7,7 +7,7 @@
 2) Push Docker Image to Docker hub.<br>
 
 
-## Docker Link
+## DockerHub Link
 
 https://hub.docker.com/r/imgurmeet/hello_from_github
 
