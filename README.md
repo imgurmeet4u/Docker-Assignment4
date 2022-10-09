@@ -1,6 +1,7 @@
 # Docker-Assignment4
 
-## Automating below task using github action.
+## Automating below task using github action.<br>
 
-Build Docker Image
-Push Docker Image to Docker hub.
+1) Build Docker Image<br>
+
+2) Push Docker Image to Docker hub.<br>
